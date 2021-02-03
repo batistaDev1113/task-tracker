@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Study React",
+      "day": "Today evening",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
