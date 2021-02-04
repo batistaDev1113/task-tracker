@@ -5,7 +5,9 @@ export default function Footer() {
 	return (
 		<footer>
 			<p>Copyright &copy; 2021</p>
-			<Link to='/about'>About</Link>
+			<Link to='/about' style={{ textDecoration: 'none' }}>
+				About
+			</Link>
 		</footer>
 	);
 }
